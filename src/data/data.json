@@ -1,0 +1,36 @@
+{
+  "stats": [
+    {
+      "id": "1",
+      "title": "Revenue",
+      "value": "$2.047",
+      "icon": "Outbound",
+      "percentageChange": "10%",
+      "arrow": "down"
+    },
+    {
+      "id": "2",
+      "title": "Orders",
+      "value": "356",
+      "icon": "Orders",
+      "percentageChange": "20%",
+      "arrow": "up"
+    },
+    {
+      "id": "3",
+      "title": "Dine In",
+      "value": "220",
+      "icon": "DineIn",
+      "percentageChange": "10%",
+      "arrow": "up"
+    },
+    {
+      "id": "4",
+      "title": "TakeAway",
+      "value": "135",
+      "icon": "Takeaway",
+      "percentageChange": "5%",
+      "arrow": "down"
+    }
+  ]
+}
